@@ -21,4 +21,4 @@ This project was build with 6 major services:
 
 ## Project diagram
 
-![Diagrama de solução](./_documentation/project_Diagram.png "Diagrama de solução")
+![Diagrama de solução](./_documentation/projectArchitecture.png "Diagrama de solução")
